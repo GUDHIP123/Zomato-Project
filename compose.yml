@@ -3,4 +3,4 @@ services:
   Zomato:
     image: gudhip/zomato:v1
     ports:
-      - "5555:80"
+      - "5555:8080"
